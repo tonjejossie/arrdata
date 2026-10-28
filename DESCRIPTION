@@ -1,0 +1,18 @@
+Package: arrdata
+Title: Simulated Data for Work-Oriented Rehabilitation
+Version: 0.0.0.9000
+Authors@R:
+    person("Tonje", "Johnsen",
+           email = "tonjejossie@gmail.com",
+           role = c("aut", "cre"))
+Description: Contains a fictional dataset for learning how to
+    organise, document and share data in an R package.
+    The data describe simulated participants in work-oriented
+    rehabilitation and do not represent real patients.
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Depends: 
+    R (>= 3.5)
+LazyData: true
+Config/roxygen2/version: 8.1.1
